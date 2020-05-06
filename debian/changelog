@@ -1,0 +1,11 @@
+ubuntudde-dde (1.1) focal; urgency=high
+
+  * Added dde-kwin, deepin-turbo
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 26 Apr 2020 17:59:30 +0545
+
+ubuntudde-dde (1.0) focal; urgency=high
+
+  * Initial Release
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 29 Mar 2020 01:55:05 +0545

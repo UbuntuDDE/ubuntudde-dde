@@ -1,0 +1,49 @@
+Source: ubuntudde-dde
+Section: metapackages
+Priority: extra
+Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Build-Depends: debhelper (>=8.0.0)
+Standards-Version: 3.9.3
+Homepage: https://ubuntudde.com
+
+Package: ubuntudde-dde
+Architecture: all
+Depends: ${misc:Depends},
+ deepin-desktop-base,
+ dde-desktop,
+ dde-api,
+ dde-dock,
+ dde-launcher,
+ dde-control-center,
+ deepin-metacity,
+ deepin-wm,
+ startdde,
+ dde-session-ui,
+ dde-file-manager,
+ dde-qt5integration,
+ dde-disk-mount-plugin,
+ eject,
+ deepin-wallpapers,
+ fonts-noto,
+ fonts-noto-color-emoji,
+ deepin-gtk-theme,
+ deepin-sound-theme,
+ deepin-icon-theme,
+ deepin-menu,
+ dde-daemon,
+ dde-account-faces,
+ deepin-desktop-schemas,
+ deepin-mutter,
+ dde-polkit-agent
+Recommends:
+ dde-kwin,
+ deepin-turbo,
+ deepin-turbo-booster
+Conflicts:
+ deepin-desktop-environment-desktop,
+ deepin-desktop-environment-dock,
+ deepin-desktop-environment-launcher
+Description: Deepin Desktop Environment for Ubuntu DDE
+ This is a meta package depends DDE (Deepin Desktop Environment).
+ .
+ You can safety remove it after installed.
