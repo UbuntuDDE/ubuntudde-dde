@@ -36,9 +36,10 @@ Depends: ${misc:Depends},
  deepin-mutter,
  dde-polkit-agent
 Recommends:
- dde-kwin,
  deepin-turbo,
  deepin-turbo-booster
+Replaces:
+ dde-kwin (<< 0.1.0-4)
 Conflicts:
  deepin-desktop-environment-desktop,
  deepin-desktop-environment-dock,

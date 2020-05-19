@@ -1,3 +1,9 @@
+ubuntudde-dde (1.1.1) focal; urgency=medium
+
+  * Removed dde-kwin from default installation.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 19 May 2020 15:11:46 +0545
+
 ubuntudde-dde (1.1) focal; urgency=high
 
   * Added dde-kwin, deepin-turbo
