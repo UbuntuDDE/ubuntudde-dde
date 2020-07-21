@@ -1,3 +1,9 @@
+ubuntudde-dde (2.0.0-1) groovy; urgency=medium
+
+  * Rebuild for UbuntuDDE Groovy.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 21 Jul 2020 20:27:16 +0545
+
 ubuntudde-dde (1.1.1) focal; urgency=medium
 
   * Removed dde-kwin from default installation.

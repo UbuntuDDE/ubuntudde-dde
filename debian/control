@@ -2,9 +2,9 @@ Source: ubuntudde-dde
 Section: metapackages
 Priority: extra
 Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
-Build-Depends: debhelper (>=8.0.0)
-Standards-Version: 3.9.3
-Homepage: https://ubuntudde.com
+Build-Depends: debhelper-compat (=13)
+Standards-Version: 4.5.0
+Homepage: https://github.com/UbuntuDDE/ubuntudde-dde
 
 Package: ubuntudde-dde
 Architecture: all
@@ -15,13 +15,11 @@ Depends: ${misc:Depends},
  dde-dock,
  dde-launcher,
  dde-control-center,
- deepin-metacity,
- deepin-wm,
+ deepin-kwin,
  startdde,
  dde-session-ui,
  dde-file-manager,
  dde-qt5integration,
- dde-disk-mount-plugin,
  eject,
  deepin-wallpapers,
  fonts-noto,
@@ -29,17 +27,8 @@ Depends: ${misc:Depends},
  deepin-gtk-theme,
  deepin-sound-theme,
  deepin-icon-theme,
- deepin-menu,
- dde-daemon,
- dde-account-faces,
- deepin-desktop-schemas,
- deepin-mutter,
- dde-polkit-agent
-Recommends:
- deepin-turbo,
- deepin-turbo-booster
-Replaces:
- dde-kwin (<< 0.1.0-4)
+ deepin-default-settings,
+ dde-kwin,
 Conflicts:
  deepin-desktop-environment-desktop,
  deepin-desktop-environment-dock,
