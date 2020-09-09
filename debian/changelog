@@ -1,3 +1,9 @@
+ubuntudde-dde (2.0.2-1) groovy; urgency=medium
+
+  * Add dde-device-formatter from ubuntudde-dde-extras.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Thu, 10 Sep 2020 01:20:14 +0545
+
 ubuntudde-dde (2.0.1-2) groovy; urgency=medium
 
   * Rebuild with deepin-kwin remove from Depends.
