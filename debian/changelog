@@ -1,3 +1,15 @@
+ubuntudde-dde (2.0.1-2) groovy; urgency=medium
+
+  * Rebuild with deepin-kwin remove from Depends.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Wed, 22 Jul 2020 12:24:19 +0545
+
+ubuntudde-dde (2.0.1-1) groovy; urgency=medium
+
+  * Removed deepin-default-settings.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Tue, 21 Jul 2020 20:56:29 +0545
+
 ubuntudde-dde (2.0.0-1) groovy; urgency=medium
 
   * Rebuild for UbuntuDDE Groovy.

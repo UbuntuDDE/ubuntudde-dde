@@ -8,31 +8,33 @@ Homepage: https://github.com/UbuntuDDE/ubuntudde-dde
 
 Package: ubuntudde-dde
 Architecture: all
-Depends: ${misc:Depends},
- deepin-desktop-base,
- dde-desktop,
- dde-api,
- dde-dock,
- dde-launcher,
- dde-control-center,
- deepin-kwin,
- startdde,
- dde-session-ui,
- dde-file-manager,
- dde-qt5integration,
- eject,
- deepin-wallpapers,
- fonts-noto,
- fonts-noto-color-emoji,
- deepin-gtk-theme,
- deepin-sound-theme,
- deepin-icon-theme,
- deepin-default-settings,
- dde-kwin,
-Conflicts:
- deepin-desktop-environment-desktop,
- deepin-desktop-environment-dock,
- deepin-desktop-environment-launcher
+Depends: dde-api,
+         dde-control-center,
+         dde-desktop,
+         dde-dock,
+         dde-file-manager,
+         dde-kwin,
+         dde-launcher,
+         dde-calendar,
+         dde-account-faces,
+         dde-session-shell,
+         dde-session-ui,
+         deepin-shortcut-viewer,
+         dde-qt5integration,
+         dde-session-ui,
+         deepin-desktop-base,
+         deepin-gtk-theme,
+         deepin-icon-theme,
+         deepin-sound-theme,
+         deepin-wallpapers,
+         eject,
+         fonts-noto,
+         fonts-noto-color-emoji,
+         startdde,
+         ${misc:Depends}
+Conflicts: deepin-desktop-environment-desktop,
+           deepin-desktop-environment-dock,
+           deepin-desktop-environment-launcher
 Description: Deepin Desktop Environment for Ubuntu DDE
  This is a meta package depends DDE (Deepin Desktop Environment).
  .
