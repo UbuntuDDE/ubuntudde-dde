@@ -33,7 +33,7 @@ Depends: dde-account-faces,
          fonts-noto,
          fonts-noto-color-emoji,
          startdde,
-         ubuntudde-icon-themes,
+         ubuntudde-icon-theme,
          ubuntudde-default-settings,
          ${misc:Depends}
 Conflicts: deepin-desktop-environment-desktop,
