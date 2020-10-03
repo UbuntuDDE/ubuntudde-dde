@@ -1,3 +1,9 @@
+ubuntudde-dde (2.0.4-1) groovy; urgency=medium
+
+  * Add dde-clipboard,deepin-screensaver, ubuntudde-icon-themes, ubuntudde-default-settings.
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sat, 03 Oct 2020 19:39:20 +0545
+
 ubuntudde-dde (2.0.3-1) groovy; urgency=medium
 
   * Replace gvfs-bin with libglib2.0-bin.
