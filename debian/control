@@ -35,6 +35,8 @@ Depends: dde-account-faces,
          startdde,
          ubuntudde-icon-theme,
          ubuntudde-default-settings,
+         dde-qt5xcb-plugin,
+         deepin-compressor,
          ${misc:Depends}
 Conflicts: deepin-desktop-environment-desktop,
            deepin-desktop-environment-dock,

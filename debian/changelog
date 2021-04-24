@@ -1,3 +1,15 @@
+ubuntudde-dde (2.0.5) hirsute; urgency=medium
+
+  * Add : dde-qt5xcb-plugin, deepin-compressor.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 25 Apr 2021 01:18:56 +0545
+
+ubuntudde-dde (2.0.4-2ubuntu1) hirsute; urgency=medium
+
+  * Rebuild for hirsute.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Mon, 05 Apr 2021 23:43:48 +0545
+
 ubuntudde-dde (2.0.4-2) groovy; urgency=medium
 
   * Typo fix for ubuntudde-icon-theme.
