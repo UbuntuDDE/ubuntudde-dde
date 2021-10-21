@@ -1,9 +1,9 @@
 Source: ubuntudde-dde
 Section: metapackages
 Priority: extra
-Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+Maintainer: Arun Kumar Pariyar <openarungeek@gmail.com>
 Build-Depends: debhelper-compat (=13)
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Homepage: https://github.com/UbuntuDDE/ubuntudde-dde
 
 Package: ubuntudde-dde
