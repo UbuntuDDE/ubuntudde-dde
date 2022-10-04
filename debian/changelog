@@ -1,3 +1,33 @@
+ubuntudde-dde (2.0.9-1) jammy; urgency=medium
+
+  * Add dde-network-core binaries.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sun, 28 Aug 2022 01:16:45 +0545
+
+ubuntudde-dde (2.0.8-1) jammy; urgency=medium
+
+  * Add dde-qt5wayland-plugin as Recommends.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 05 Aug 2022 18:12:33 +0545
+
+ubuntudde-dde (2.0.7ubuntu1) jammy; urgency=medium
+
+  * Upload to jammy.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Tue, 02 Aug 2022 16:23:06 +0545
+
+ubuntudde-dde (2.0.7) impish; urgency=medium
+
+  * New release to impish.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Sat, 13 Nov 2021 23:13:18 +0545
+
+ubuntudde-dde (2.0.6) impish; urgency=medium
+
+  * Move some packages to dde-extras.
+
+ -- Arun Kumar Pariyar <openarungeek@gmail.com>  Fri, 01 Oct 2021 22:05:10 +0545
+
 ubuntudde-dde (2.0.5) hirsute; urgency=medium
 
   * Add : dde-qt5xcb-plugin, deepin-compressor.
